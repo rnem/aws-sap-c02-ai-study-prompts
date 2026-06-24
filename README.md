@@ -10,7 +10,7 @@ This repository contains the exact prompts I used to prepare for and pass the **
 
 Instead of traditional video courses and practice test platforms, I structured my preparation into four distinct rounds — each designed to build a specific skill needed for the exam. These prompts turn AI into an adaptive study partner that generates unique questions, tracks your weak areas, and provides immediate feedback with documentation links.
 
-**Read the full article:** [How I cleared the AWS Solutions Architect Professional exam in 21 days using AI]([https://www.rogernem.com](https://medium.com/@rogernem/how-i-cleared-the-aws-security-specialty-exam-in-12-days-in-2025-dd63c5f1f9bd))
+**Read the full article:** [How I cleared the AWS Solutions Architect Professional exam in 21 days using AI](https://medium.com/@rogernem/how-i-cleared-the-aws-security-specialty-exam-in-12-days-in-2025-dd63c5f1f9bd)
 
 ## 🎯 Who Is This For?
 
